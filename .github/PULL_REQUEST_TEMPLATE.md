@@ -1,9 +1,5 @@
 ## 🧪 PR Summary (MANDATORY)
 
-**Lab Name:** _REPLACE_THIS_  
-**Module/Exercise:** _REPLACE_THIS_  
-**Azure Service(s):** _REPLACE_THIS_
-
 Short summary of change:
 
 > _REPLACE_THIS_WITH_2-3_LINES_
