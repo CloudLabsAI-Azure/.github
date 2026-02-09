@@ -10,6 +10,7 @@
 - [ ] Broken link fix
 - [ ] Service rename / feature deprecation
 - [ ] Content improvement (clarity/typos)
+- [ ] Dependency failure/ version conflict
 - [ ] Lab flow change
 - [ ] Validation fix
 - [ ] Other
