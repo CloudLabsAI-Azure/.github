@@ -1,8 +1,16 @@
-## 🧪 PR Summary
+## 🧪 PR Summary (MANDATORY)
+
+**Lab Name:** _REPLACE_THIS_  
+**Module/Exercise:** _REPLACE_THIS_  
+**Azure Service(s):** _REPLACE_THIS_
+
+Short summary of change:
+
+> _REPLACE_THIS_WITH_2-3_LINES_
 
 ---
 
-## 🔄 Type of Change
+## 🔄 Type of Change (Select at least one)
 
 - [ ] Azure Portal UI change  
 - [ ] Step / instruction update  
@@ -18,7 +26,7 @@
 
 ## 📌 Reason for Change
 
-Why was this update needed?
+**Trigger for this update:**
 
 - [ ] Azure UI/Workflow changed  
 - [ ] Learners reported issue  
@@ -27,23 +35,29 @@ Why was this update needed?
 - [ ] Optimization / better experience  
 - [ ] Security / compliance update
 
-Brief explanation:
+**Brief explanation (MANDATORY):**
 
-> 
+> _REPLACE_THIS_WITH_ACTUAL_REASON_
 
 ---
 
 ## 📝 What Was Modified
 
-Describe EXACTLY what changed from learner perspective:
+**From learner perspective:**
 
-- Old behavior / text:  
-- New behavior / text:  
+- **Old behavior / text:**  
+  > _REPLACE_THIS_
+
+- **New behavior / text:**  
+  > _REPLACE_THIS_
+
+**Files/Areas Updated:**
+
+> _ADD_FILE_PATHS_OR_SECTIONS_
 
 ---
 
-
-## 🧪 Validation Done
+## 🧪 Validation Done (MANDATORY)
 
 - [ ] Followed the lab end-to-end after changes  
 - [ ] Steps are in correct sequence  
@@ -51,15 +65,17 @@ Describe EXACTLY what changed from learner perspective:
 - [ ] All links tested  
 - [ ] No copy-paste or formatting issues
 
- 
+**How it was tested:**
+
+> _REPLACE_WITH_TEST_DETAILS_
 
 ---
 
 ## 🔗 References
 
-- Support ticket / issue:  
-- Azure announcement link:  
-- Learner feedback link:
+- Support ticket / issue: _OPTIONAL_  
+- Azure announcement link: _OPTIONAL_  
+- Learner feedback link: _OPTIONAL_
 
 ---
 
@@ -67,4 +83,4 @@ Describe EXACTLY what changed from learner perspective:
 
 Anything reviewers should double-check?
 
-> 
+> _WRITE_NONE_IF_NOT_APPLICABLE_
